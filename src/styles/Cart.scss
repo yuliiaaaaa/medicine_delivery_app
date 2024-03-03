@@ -1,0 +1,28 @@
+.cart-page {
+  &__form {
+    width: 45%;
+  }
+  &__list {
+    width: 50%;
+    overflow-y: scroll;
+    max-height: 385px;
+  }
+  &__content {
+    width: 100%;
+    display: flex;
+    gap: 20px;
+  }
+  &__submit-total {
+    margin-top: 150px;
+    display: flex;
+    justify-content: right;
+    margin-right: 60px;
+    gap: 20px;
+  }
+  &__price {
+    font-weight: 600;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+  }
+}

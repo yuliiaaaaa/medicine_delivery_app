@@ -1,0 +1,14 @@
+.find-medicines {
+  display: flex;
+  gap: 100px;
+  &__shopBlock {
+    height: 100vh;
+  }
+  &__medicines {
+    max-height: 100vh;
+    overflow-y: auto;
+  }
+  &__dropdown {
+    margin-bottom: 20px;
+  }
+}

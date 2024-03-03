@@ -1,0 +1,9 @@
+.favourite-page {
+  overflow-y: auto;
+  &__list {
+    margin-top: 50px;
+    padding-left: 100px;
+    overflow-y: auto;
+    height: 450px;
+  }
+}

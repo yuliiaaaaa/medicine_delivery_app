@@ -1,0 +1,18 @@
+.shop-card {
+  background-color: #d1ddf7ea;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0.3, 0.1);
+  transition: transform 0.3s ease;
+
+  &:hover {
+    transform: translateY(-5px);
+  }
+
+  &__name {
+    font-size: 20px;
+    color: $primary-color;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+}
