@@ -21,7 +21,7 @@
    
 ## Screenshots
 1. App appearance <br/>
-* Sort by cheapest
+* Sort by cheapest <br/>
 ![2024-03-04_10-07-31](https://github.com/yuliiaaaaa/medicine_delivery_app/assets/105826111/4f32e37d-a586-44b1-9595-2357299ec10d) <br/>
 
 2. Favourites page
