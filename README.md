@@ -22,18 +22,23 @@
 ## Screenshots
 1. App appearance <br/>
 * Sort by cheapest
-![2024-03-04_10-07-31](https://github.com/yuliiaaaaa/medicine_delivery_app/assets/105826111/4f32e37d-a586-44b1-9595-2357299ec10d)
+![2024-03-04_10-07-31](https://github.com/yuliiaaaaa/medicine_delivery_app/assets/105826111/4f32e37d-a586-44b1-9595-2357299ec10d) <br/>
+
 2. Favourites page
-![2024-03-04_10-08-31](https://github.com/yuliiaaaaa/medicine_delivery_app/assets/105826111/0543ecaf-bce6-45c7-abc0-cc9b57d6532a)
+![2024-03-04_10-08-31](https://github.com/yuliiaaaaa/medicine_delivery_app/assets/105826111/0543ecaf-bce6-45c7-abc0-cc9b57d6532a) <br/>
+
 3. Cart page
-![2024-03-04_10-10-20](https://github.com/yuliiaaaaa/medicine_delivery_app/assets/105826111/4fcbc45d-8ef8-4868-8816-9394d5c72253)
+![2024-03-04_10-10-20](https://github.com/yuliiaaaaa/medicine_delivery_app/assets/105826111/4fcbc45d-8ef8-4868-8816-9394d5c72253) <br/>
+
 4. Form validation
-  ![2024-03-04_10-12-42](https://github.com/yuliiaaaaa/medicine_delivery_app/assets/105826111/11905d3f-0ee0-420f-af89-8cb3f752d220)
+  ![2024-03-04_10-12-42](https://github.com/yuliiaaaaa/medicine_delivery_app/assets/105826111/11905d3f-0ee0-420f-af89-8cb3f752d220) <br/>
 
 2. App backend:
-   ![2024-03-04_10-26-36](https://github.com/yuliiaaaaa/medicine_delivery_app/assets/105826111/943be3a3-4ad7-4047-9188-ba006a515c48)
-   ![2024-03-04_10-27-02](https://github.com/yuliiaaaaa/medicine_delivery_app/assets/105826111/0da94fad-f879-4128-8ec3-8dcf234a93a7)
-   ![2024-03-04_10-31-16](https://github.com/yuliiaaaaa/medicine_delivery_app/assets/105826111/15efa6c4-dcea-440b-a173-736707135d9a)
+   ![2024-03-04_10-26-36](https://github.com/yuliiaaaaa/medicine_delivery_app/assets/105826111/943be3a3-4ad7-4047-9188-ba006a515c48) <br/>
+   
+   ![2024-03-04_10-27-02](https://github.com/yuliiaaaaa/medicine_delivery_app/assets/105826111/0da94fad-f879-4128-8ec3-8dcf234a93a7) <br/>
+   
+   ![2024-03-04_10-31-16](https://github.com/yuliiaaaaa/medicine_delivery_app/assets/105826111/15efa6c4-dcea-440b-a173-736707135d9a) <br/>
 
 
 
