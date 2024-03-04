@@ -20,7 +20,7 @@
 6. Npm run start
    
 ## Screenshots
-1. App appearance
+1. App appearance <br/>
 * Sort by cheapest
 ![2024-03-04_10-07-31](https://github.com/yuliiaaaaa/medicine_delivery_app/assets/105826111/4f32e37d-a586-44b1-9595-2357299ec10d)
 2. Favourites page
@@ -30,6 +30,14 @@
 4. Form validation
   ![2024-03-04_10-12-42](https://github.com/yuliiaaaaa/medicine_delivery_app/assets/105826111/11905d3f-0ee0-420f-af89-8cb3f752d220)
 
+2. App backend:
+   ![2024-03-04_10-26-36](https://github.com/yuliiaaaaa/medicine_delivery_app/assets/105826111/943be3a3-4ad7-4047-9188-ba006a515c48)
+   ![2024-03-04_10-27-02](https://github.com/yuliiaaaaa/medicine_delivery_app/assets/105826111/0da94fad-f879-4128-8ec3-8dcf234a93a7)
+   ![2024-03-04_10-31-16](https://github.com/yuliiaaaaa/medicine_delivery_app/assets/105826111/15efa6c4-dcea-440b-a173-736707135d9a)
+
+
+
+   
   
 
 
