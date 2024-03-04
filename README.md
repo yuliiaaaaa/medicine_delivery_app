@@ -11,3 +11,9 @@
 ### Shopping Cart:
 * Persistent Cart: Utilizes local storage to retain cart items, ensuring continuity across user sessions.
 * Easy Modification: Users can effortlessly review and modify items in their cart, facilitating seamless order management.
+### How to run:
+1. Clone this repository to your local machine.
+2. Navigate to the project directory.
+3. Install dependencies by running npm install.
+4. Start the server by running node server.js.
+5. Npm run start
