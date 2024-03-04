@@ -1,5 +1,5 @@
 const { request, response } = require("express");
-const pool = require("../connection.js");
+const pool = require("../config/connection");
 
 const getMedicinesByShop = (request, response) => {
   const shop_id = request.params.shopId;
