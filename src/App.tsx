@@ -27,14 +27,14 @@ export function App() {
 
   useEffect(() => {
     axios
-      .get("http://localhost:5000/shops")
+      .get("https://medicine-app-backend-4.onrender.com/shops")
       .then((response) => setShops(response.data))
       .catch(() => setIsError(true));
   }, []);
 
   const fetchMedicinesByShop = (shopId: number) => {
     axios
-      .get(`http://localhost:5000/medicines/${shopId}`)
+      .get(`https://medicine-app-backend-4.onrender.com/medicines/${shopId}`)
       .then((response) => {
         setMedicines(response.data);
       })
@@ -43,7 +43,7 @@ export function App() {
 
   const submitOrder = (orderData: any) => {
     axios
-      .post("http://localhost:5000/orders", orderData)
+      .post("https://medicine-app-backend-4.onrender.com/orders", orderData)
       .then(() => {
         setSuccessMessage("Order submitted successfully!");
         setCartItems([]);

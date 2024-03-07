@@ -3,7 +3,6 @@ const pool = require("../config/connection");
 
 const getMedicinesByShop = (request, response) => {
   const shop_id = request.params.shopId;
-  console.log(shop_id);
   pool.query(
     "SELECT * FROM medicines WHERE shop_id = $1",
     [shop_id],
@@ -28,7 +27,6 @@ const getShops = (request, response) => {
 
 const postOrder = async (req, res) => {
   try {
-    console.log(req.body);
     const { user_email, user_phone, user_address, total_price, items } =
       req.body;
     const orderDate = new Date().toISOString();
