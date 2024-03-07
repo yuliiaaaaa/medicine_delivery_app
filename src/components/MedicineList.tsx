@@ -57,6 +57,7 @@ export const MedicineList: React.FC<Props> = ({
     <div className="medicine-list">
       {preparedMedicines.map((medicine) => (
         <MedicineCard
+          key={medicine.id}
           medicine={medicine}
           cartItems={cartItems}
           setCartItems={setCartItems}

@@ -18,15 +18,19 @@ export const FavouritePage: React.FC<Props> = ({
 }) => {
   return (
     <div className="favourite-page">
-      <div className="favourite-page__list">
-        <MedicineList
-          medicines={favourites}
-          cartItems={cartItems}
-          setCartItems={setCartItems}
-          favourites={favourites}
-          setFavourites={setFavourites}
-        />
-      </div>
+      {favourites.length > 0 ? (
+        <div className="favourite-page__list">
+          <MedicineList
+            medicines={favourites}
+            cartItems={cartItems}
+            setCartItems={setCartItems}
+            favourites={favourites}
+            setFavourites={setFavourites}
+          />
+        </div>
+      ) : (
+        "No favourite products"
+      )}
     </div>
   );
 };
